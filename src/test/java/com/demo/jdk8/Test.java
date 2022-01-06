@@ -39,6 +39,7 @@ public class Test {
         System.out.println("线程结束 ----->");
         for (int i = 0; i < 5; i++) {
             System.out.println("kkk"+i);
+            System.out.println("");
         }
 
 //        MyRunnable myRunnable = new MyRunnable();
